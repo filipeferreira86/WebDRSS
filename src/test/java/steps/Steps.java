@@ -152,5 +152,6 @@ public class Steps {
 	public void fechar() {
 		driver.quit();
 	}
+	
 
 }
